@@ -1,6 +1,19 @@
 # ROS-Installation-using-VIrtualBox-and-Ubuntu
 The first task in the path of artificial intelligence
 
+These instructions will install ROS Noetic Ninjemys, which is available for Ubuntu Focal (20.04), Debian.
+## Links
+VirtualBox
+- https://www.virtualbox.org/wiki/Downloads
+
+Ubuntu
+- https://ubuntu.com/download/desktop
+
+for help and more details 
+- https://wiki.ros.org/noetic/Installation/Ubuntu
+
+##
+
 Install ROS noetic
 Explanation of the steps
 
